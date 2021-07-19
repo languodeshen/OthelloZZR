@@ -1,1 +1,1 @@
-# OthelloZZR
+# Othelloコード勉強中
